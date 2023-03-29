@@ -7,6 +7,7 @@ function App() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <h1>Simple OT app to test jenkins</h1>
+                <p>Test change 1</p>
                 <p>
                     Edit <code>src/App.js</code> and save to reload.
                 </p>
